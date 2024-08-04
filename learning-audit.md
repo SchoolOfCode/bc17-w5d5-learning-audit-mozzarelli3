@@ -26,17 +26,24 @@ Frontend
 - Async/Await (ORANGE)
 
     DOM
-        - I was able to get DOM nodes but found it hard to change text values in nodes. I need write some simple JS that selects DOM nodes and reads text or html attributes. To start with, I plan to watch some recap videos and re-read my old code, both linked below. I will practise in the file: dom.
+        - I was able to get DOM nodes but found it hard to change text values in nodes. I need write some simple JS that selects DOM nodes and reads text or html attributes. To start with, I plan to watch some recap videos and re-read my old code, both linked below. I will practise in the file: "dom.js"
+      Resources:
+        - 
         
     Fetch
         - I think I'm confusing the difference between fetch and using express. I need to recap the difference and make sure I'm comfortable with when to use each one. I will start my learning by watching some recap videos, and again, re-reading old code (linked below). 
-       Resources and code:
+      Resources and code:
         - https://www.w3schools.com/jsref/api_fetch.asp
-        - 
+        - https://www.youtube.com/watch?v=ubw2hdQIl4E
+        - https://www.geeksforgeeks.org/express-js/
         - 
 
     Async / Await:
+        - I understand the concept of async/await, but I struggled to know when it was needed. I know how it works (such as ...), but I find it hard to remember which functions I'm required to use it with.
+      Resources:
+        - https://www.youtube.com/watch?v=QSqc6MMS6Fk
         - 
+
 
 Backend
 - Node.js (GREEN)
@@ -52,3 +59,6 @@ Database
 - Hosted Postgres Databases (GREEN)
 - Postgres & Node.js (GREEN)
 - Postgres & REST APIs (GREEN)
+
+
+
