@@ -3,9 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>DOM Selection Practice</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <h1>Practice Selecting DOM Nodes</h1>
+    
+    <div class="container">
+        <p id="first-paragraph">This is the first paragraph.</p>
+        <p class="text">This is a paragraph with a class.</p>
+        <p class="text">This is another paragraph with the same class.</p>
+        <div id="nested">
+            <p>This is a nested paragraph inside a div.</p>
+        </div>
+        <ul>
+            <li class="item">Item 1</li>
+            <li class="item">Item 2</li>
+            <li class="item">Item 3</li>
+        </ul>
+    </div>
+
+    <button id="select-button">Select Nodes</button>
+
     <script src="dom.js"></script>
 </body>
 </html>
