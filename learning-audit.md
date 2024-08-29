@@ -4,26 +4,26 @@ Bootcamp 17
 Modules and topics covered:
 
 On-boarding
-- Computational Thinking (GREEN)
-- AI Tools & Dev Environment Setup (GREEN)
-- Git & GitHub (GREEN)
-- Push, pull, branching, etc. (GREEN)
+- Computational Thinking 🟢
+- AI Tools & Dev Environment Setup 🟢
+- Git & GitHub 🟢
+- Push, pull, branching, etc. 🟠
 
 Software engineering
-- Loops (GREEN)
-- Functions (ORANGE)
-- Arrays (GREEN)
-- Objects (GREEN)
-- Array Methods & Callbacks (ORANGE)
-- Debugging (GREEN)
+- Loops 🟢
+- Functions 🟠
+- Arrays 🟢
+- Objects 🟢
+- Array Methods & Callbacks 🟠
+- Debugging 🟢
 
 Frontend
-- Semantic HTML and Basic of CSS Layouts (GREEN)
-- DOM selectors (ORANGE)
-- Button click and Form Submit (GREEN)
-- Fetch (ORANGE)
-- Async JavaScript (ORANGE)
-- Async/Await (ORANGE)
+- Semantic HTML and Basic of CSS Layouts 🟢
+- DOM selectors 🟠
+- Button click and Form Submit 🟢
+- Fetch 🟠
+- Async JavaScript 🟠
+- Async/Await 🟠
 
     DOM
         - I was able to get DOM nodes but found it hard to change text values in nodes. I need write some simple JS that selects DOM nodes and reads text or html attributes. To start with, I plan to watch some recap videos and re-read my old code, both linked below. I will practise in the file: "dom.js"
@@ -51,19 +51,44 @@ Frontend
 
 
 Backend
-- Node.js (GREEN)
-- CRUD Functionality (GREEN)
-- REST API (GREEN)
-- Express Routers & MVC Architecture (GREEN)
-- Express Middleware (GREEN)
+- Node.js 🟢
+- CRUD Functionality 🟢
+- REST API 🟢
+- Express Routers & MVC Architecture 🟢
+- Express Middleware 🟢
 
 Database
-- Basics of SQL (GREEN)
-- Queries & Joins (GREEN)
-- Joins and Subqueries (GREEN)
-- Hosted Postgres Databases (GREEN)
-- Postgres & Node.js (GREEN)
-- Postgres & REST APIs (GREEN)
+- Basics of SQL 🟢
+- Queries & Joins 🟢
+- Joins and Subqueries 🟢
+- Hosted Postgres Databases 🟢
+- Postgres & Node.js 🟢
+- Postgres & REST APIs 🟢
+
+Quality Assurance and Testing
+- Testing Tools (Concepts and Technical)
+- Unit testing 🟢
+- Test-driven Development 🟢
+- End-to-end Testing 🟠
+- API Testing
+
+React
+- Web Frameworks with React
+- Components 🟢 🔴
+- Events 🟢
+- Props 🟢
+- State 🟢
+- useEffect 🟠
+- useReducer 🟠
+
+User-Centred Design
+- Intro to product vs project
+- Intro to UI/UX
+- Centering the User
+- Wireframing & Prototyping
+- UI Principles
+
+
 
 
 
