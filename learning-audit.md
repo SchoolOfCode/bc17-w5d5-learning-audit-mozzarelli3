@@ -70,23 +70,22 @@ Quality Assurance and Testing
 - Unit testing 🟢
 - Test-driven Development 🟢
 - End-to-end Testing 🟠
-- API Testing
+- API Testing 🟠
 
 React
 - Web Frameworks with React
-- Components 🟢 🔴
+- Components 🟢
 - Events 🟢
 - Props 🟢
-- State 🟢
+- State 🟠
 - useEffect 🟠
 - useReducer 🟠
 
 User-Centred Design
-- Intro to product vs project
-- Intro to UI/UX
-- Centering the User
-- Wireframing & Prototyping
-- UI Principles
+- Intro to product vs project 🟢
+- Intro to UI/UX 🟢
+- Centering the User 🟢
+- Wireframing & Prototyping 🟢
 
 
 
