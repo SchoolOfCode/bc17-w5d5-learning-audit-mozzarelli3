@@ -87,7 +87,28 @@ User-Centred Design
 - Centering the User 🟢
 - Wireframing & Prototyping 🟢
 
+DevOps 
+- History of DevOps Culture and tooling
+- Introduction to Containers and Docker
+- Monitoring and Logging
+- CI/CD
+- Lambdas
+- Cloud Providers
+- Infrastructure as code
+- GitHub Actions
 
+Cyber Security
+- Cyber Security Mindset
+- Threat and Risk Analysis
+- Common Vulnerabilities
+- Authentication and Authorisation
+- Defensive Coding
+
+Data and AI Developer
+- AI
+- Python
+- Tensorflow
+- Open Source models
 
 
 
